@@ -1,3 +1,5 @@
+ciekawe co i jak sie yi ozmienia
+
 
 # Python Products
 
